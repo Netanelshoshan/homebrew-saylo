@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Saylo</title>
+        <item>
+            <title>0.1.1</title>
+            <pubDate>Sun, 16 Aug 2026 21:17:59 +0300</pubDate>
+            <link>https://github.com/netanelshoshan/homebrew-saylo</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/netanelshoshan/homebrew-saylo/releases</sparkle:fullReleaseNotesLink>
+            <sparkle:version>210110</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/netanelshoshan/homebrew-saylo/releases/download/v0.1.1/Saylo-v0.1.1.zip" length="3601700" type="application/octet-stream" sparkle:edSignature="Choc90nZJVQZrZNYf86mTapXvI3V5oU0Cz2w0D+G0mOQpKL1nglK3Z5THaB8pv14USAT3As20DEviOiPZPbQBg=="/>
+        </item>
+    </channel>
+</rss>
