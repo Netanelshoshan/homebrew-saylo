@@ -1,6 +1,6 @@
 cask "saylo" do
-  version "0.1.1"
-  sha256 "45b5d2144fc85c7470bbca7fa8494609196fd2a6c7f99ce97507e49e0242c1ad"
+  version "0.1.2"
+  sha256 "65a2f02b8f6b165f6726b34b3208e31acc248b0dc4081fb7b9dc01dfb93e068d"
 
   url "https://github.com/netanelshoshan/homebrew-saylo/releases/download/v#{version}/Saylo.dmg"
   name "Saylo"

@@ -8,9 +8,9 @@
             <link>https://github.com/netanelshoshan/homebrew-saylo</link>
             <sparkle:fullReleaseNotesLink>https://github.com/netanelshoshan/homebrew-saylo/releases</sparkle:fullReleaseNotesLink>
             <sparkle:version>210110</sparkle:version>
-            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/netanelshoshan/homebrew-saylo/releases/download/v0.1.1/Saylo-v0.1.1.zip" length="3601700" type="application/octet-stream" sparkle:edSignature="Choc90nZJVQZrZNYf86mTapXvI3V5oU0Cz2w0D+G0mOQpKL1nglK3Z5THaB8pv14USAT3As20DEviOiPZPbQBg=="/>
+            <enclosure url="https://github.com/netanelshoshan/homebrew-saylo/releases/download/v0.1.2/Saylo-v0.1.2.zip" length="3543476" type="application/octet-stream" sparkle:edSignature="FydO7LmcA3krV+CIT4/2JgXhup6EjP8z8c7K/fVNVDfe97xIH2RDejQndY8/cJmcG6GtOSEY3RY7SaZqZpx2Bg=="/>
         </item>
     </channel>
 </rss>
