@@ -3,6 +3,16 @@
     <channel>
         <title>Saylo</title>
         <item>
+            <title>0.1.3</title>
+            <pubDate>Wed, 19 Aug 2026 10:38:54 +0300</pubDate>
+            <link>https://github.com/netanelshoshan/homebrew-saylo</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/netanelshoshan/homebrew-saylo/releases</sparkle:fullReleaseNotesLink>
+            <sparkle:version>210111</sparkle:version>
+            <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/netanelshoshan/homebrew-saylo/releases/download/v0.1.3/Saylo-v0.1.3.zip" length="3543516" type="application/octet-stream" sparkle:edSignature="oR/lfg3Y3iKaeqThl4cTgU3NGrJmX38YKRSBKLsT/1JotBEG5lOW+w6kFKnE+zvoN5Q/DXIP5IftzqqTeFjWDQ=="/>
+        </item>
+        <item>
             <title>0.1.1</title>
             <pubDate>Sun, 16 Aug 2026 21:17:59 +0300</pubDate>
             <link>https://github.com/netanelshoshan/homebrew-saylo</link>
