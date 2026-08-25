@@ -3,6 +3,22 @@
     <channel>
         <title>Saylo</title>
         <item>
+            <title>1.2.0</title>
+            <pubDate>Tue, 25 Aug 2026 13:40:58 -0400</pubDate>
+            <link>https://github.com/netanelshoshan/homebrew-saylo</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/netanelshoshan/homebrew-saylo/releases</sparkle:fullReleaseNotesLink>
+            <sparkle:version>210116</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Saylo 1.2.0</title>
+<h1>Saylo 1.2.0</h1>
+<pre style="font: 13px -apple-system, BlinkMacSystemFont, sans-serif; white-space: pre-wrap">bug fixes</pre>
+]]></description>
+            <enclosure url="https://github.com/netanelshoshan/homebrew-saylo/releases/download/v1.2.0/Saylo-v1.2.0.zip" length="21213925" type="application/octet-stream" sparkle:edSignature="KX7PtWpDBYU5UYPWpjI/qFJJiKkWSp0+MABnMwd6esXPrwUIpfIS1zVHeIgk+PXFlrylz8BJrnHcPKoSlYaDBg=="/>
+        </item>
+        <item>
             <title>1.1.0</title>
             <pubDate>Tue, 25 Aug 2026 12:10:55 -0400</pubDate>
             <link>https://github.com/netanelshoshan/homebrew-saylo</link>
@@ -62,16 +78,6 @@ On-device model downloads now show percent complete.</pre>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://raw.githubusercontent.com/netanelshoshan/homebrew-saylo/main/Saylo-v1.0.0.html</sparkle:releaseNotesLink>
             <enclosure url="https://github.com/netanelshoshan/homebrew-saylo/releases/download/v1.0.0/Saylo-v1.0.0.zip" length="21863848" type="application/octet-stream" sparkle:edSignature="HQmOb9RkRXKktCi1PUGHcL6ujwrFMKNKPt8+S09Cf23NdaGx+1PqzwnHsL2ljZLMXXAKIEPWQAfbDFrztnweAg=="/>
-        </item>
-        <item>
-            <title>0.1.3</title>
-            <pubDate>Wed, 19 Aug 2026 10:38:54 +0300</pubDate>
-            <link>https://github.com/netanelshoshan/homebrew-saylo</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/netanelshoshan/homebrew-saylo/releases</sparkle:fullReleaseNotesLink>
-            <sparkle:version>210111</sparkle:version>
-            <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/netanelshoshan/homebrew-saylo/releases/download/v0.1.3/Saylo-v0.1.3.zip" length="3543516" type="application/octet-stream" sparkle:edSignature="oR/lfg3Y3iKaeqThl4cTgU3NGrJmX38YKRSBKLsT/1JotBEG5lOW+w6kFKnE+zvoN5Q/DXIP5IftzqqTeFjWDQ=="/>
         </item>
     </channel>
 </rss>
