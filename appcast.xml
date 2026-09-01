@@ -3,6 +3,22 @@
     <channel>
         <title>Saylo</title>
         <item>
+            <title>1.3.1</title>
+            <pubDate>Tue, 01 Sep 2026 11:10:13 -0400</pubDate>
+            <link>https://github.com/netanelshoshan/homebrew-saylo</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/netanelshoshan/homebrew-saylo/releases</sparkle:fullReleaseNotesLink>
+            <sparkle:version>210118</sparkle:version>
+            <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Saylo 1.3.1</title>
+<h1>Saylo 1.3.1</h1>
+<pre style="font: 13px -apple-system, BlinkMacSystemFont, sans-serif; white-space: pre-wrap">- bug fixes</pre>
+]]></description>
+            <enclosure url="https://github.com/netanelshoshan/homebrew-saylo/releases/download/v1.3.1/Saylo-v1.3.1.zip" length="21230621" type="application/octet-stream" sparkle:edSignature="ZLCg5ebZPaE2VJGQF7V0ctPa/UHAEJlJuLW6z4DrgZyfhJnThAf6FlD9Gj6RXZvoCWnnzkZyGowGEYMYV9YFDg=="/>
+        </item>
+        <item>
             <title>1.3.0</title>
             <pubDate>Tue, 01 Sep 2026 10:36:50 -0400</pubDate>
             <link>https://github.com/netanelshoshan/homebrew-saylo</link>
@@ -69,24 +85,6 @@
 <pre style="font: 13px -apple-system, BlinkMacSystemFont, sans-serif; white-space: pre-wrap">- bug fixed and performance improvments</pre>
 ]]></description>
             <enclosure url="https://github.com/netanelshoshan/homebrew-saylo/releases/download/v1.0.2/Saylo-v1.0.2.zip" length="21871978" type="application/octet-stream" sparkle:edSignature="o/9TQXcQlU+IGAOZMLlTXXVb8bGGGqdYR31UkepeP2swTevDW7/h/UMpiigpnd5AsR+D4oOgEHVgBAZew9b/Dg=="/>
-        </item>
-        <item>
-            <title>1.0.1</title>
-            <pubDate>Sat, 22 Aug 2026 10:08:24 -0400</pubDate>
-            <link>https://github.com/netanelshoshan/homebrew-saylo</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/netanelshoshan/homebrew-saylo/releases</sparkle:fullReleaseNotesLink>
-            <sparkle:version>210113</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<!DOCTYPE html>
-<meta charset="utf-8">
-<title>Saylo 1.0.1</title>
-<h1>Saylo 1.0.1</h1>
-<pre style="font: 13px -apple-system, BlinkMacSystemFont, sans-serif; white-space: pre-wrap">Stop asking for Accessibility when it is already turned on.
-The dictation shortcut no longer waits on a stale TCC check.
-On-device model downloads now show percent complete.</pre>
-]]></description>
-            <enclosure url="https://github.com/netanelshoshan/homebrew-saylo/releases/download/v1.0.1/Saylo-v1.0.1.zip" length="21864790" type="application/octet-stream" sparkle:edSignature="QI7pEgqQCDtCkD3jCt4e2GWiyexUe2mQP80sDl+7uXcArJVPh/CBxX2gMbNcaVYSEcdsnFhEZDgpWTgD2uMACA=="/>
         </item>
     </channel>
 </rss>
