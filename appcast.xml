@@ -3,6 +3,26 @@
     <channel>
         <title>Saylo</title>
         <item>
+            <title>1.4.1</title>
+            <pubDate>Sat, 07 Nov 2026 18:30:19 +0200</pubDate>
+            <link>https://github.com/netanelshoshan/homebrew-saylo</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/netanelshoshan/homebrew-saylo/releases</sparkle:fullReleaseNotesLink>
+            <sparkle:version>210120</sparkle:version>
+            <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Saylo 1.4.1</title>
+<h1>Saylo 1.4.1</h1>
+<pre style="font: 13px -apple-system, BlinkMacSystemFont, sans-serif; white-space: pre-wrap">Signed and notarized build of the notch release.
+
+- Dictation opens out of the notch, with the stop button beside the camera housing. On displays without a notch it drops from the top edge.
+- Permissions are kept across updates, and Saylo names the permission that is missing when you press the shortcut.
+- Fixed races when changing languages while Saylo was still starting up.</pre>
+]]></description>
+            <enclosure url="https://github.com/netanelshoshan/homebrew-saylo/releases/download/v1.4.1/Saylo-v1.4.1.zip" length="21219040" type="application/octet-stream" sparkle:edSignature="FYyCYs5nCAJt5KkFrb6S2pxxV0ZoUy4WADuoyG3uqQeMpx5rYLPvJKEoujfTVkW1RM3Az4r0yh1FmbhZZmobBw=="/>
+        </item>
+        <item>
             <title>1.4.0</title>
             <pubDate>Sat, 07 Nov 2026 17:57:29 +0200</pubDate>
             <link>https://github.com/netanelshoshan/homebrew-saylo</link>
@@ -74,22 +94,6 @@
 <pre style="font: 13px -apple-system, BlinkMacSystemFont, sans-serif; white-space: pre-wrap">bug fixes</pre>
 ]]></description>
             <enclosure url="https://github.com/netanelshoshan/homebrew-saylo/releases/download/v1.2.0/Saylo-v1.2.0.zip" length="21213925" type="application/octet-stream" sparkle:edSignature="KX7PtWpDBYU5UYPWpjI/qFJJiKkWSp0+MABnMwd6esXPrwUIpfIS1zVHeIgk+PXFlrylz8BJrnHcPKoSlYaDBg=="/>
-        </item>
-        <item>
-            <title>1.1.0</title>
-            <pubDate>Tue, 25 Aug 2026 12:10:55 -0400</pubDate>
-            <link>https://github.com/netanelshoshan/homebrew-saylo</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/netanelshoshan/homebrew-saylo/releases</sparkle:fullReleaseNotesLink>
-            <sparkle:version>210115</sparkle:version>
-            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<!DOCTYPE html>
-<meta charset="utf-8">
-<title>Saylo 1.1.0</title>
-<h1>Saylo 1.1.0</h1>
-<pre style="font: 13px -apple-system, BlinkMacSystemFont, sans-serif; white-space: pre-wrap">autopaste bug fix</pre>
-]]></description>
-            <enclosure url="https://github.com/netanelshoshan/homebrew-saylo/releases/download/v1.1.0/Saylo-v1.1.0.zip" length="21211883" type="application/octet-stream" sparkle:edSignature="HRueXP3rputC6Upz6ba5/4qIL/4hgJlz4qJ8pkISmYqdO6d4dD7yFY18MAsZHOPP1LqSc3nSt2tcEitLzIFpDQ=="/>
         </item>
     </channel>
 </rss>
